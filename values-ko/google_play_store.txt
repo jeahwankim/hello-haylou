@@ -1,53 +1,53 @@
-Haylou Smart Watch support, extends the capability of the Haylou apps
+Haylue Smart Watch 지원, Haylue 공식앱의 기능 확장
 
-<b>Supported devices</b>
+<b>지원되는 장치</b>
 • Haylou Solar (LS05)
 • Haylou Smart Watch 2 (LS02)
 • Haylou Smart Watch (LS01)
 
-This app works with or without the original Haylou apps (but we have no affiliation with Xiaomi / Haylou).
+이 앱은 원래 Haylue 앱과 연동 또는 독립적으로 동작 합니다. .(하지만 우리는 샤오미 / Hayluo와 제휴하지 않습니다).
 
-<b>If you have a connection problem</b>
-- recent apps screen: lock the Hello Haylou (pull down the app and click on lock icon)
-- phone battery settings/battery optimization: set Hello Haylou app to not optimized
+<b>스마트폰과 연결 문제가 있는 경우</b>
+- 최근 앱 화면 : Hello Haylou 잠금 (앱을 아래로 내리고 잠금 아이콘 클릭)
+- 스마트폰 배터리 설정/배터리 최적화: Hello Haylou 앱을 최적화하지 않음으로 설정
 
-<b>If the problem persists</b>
-- restart your phone
-- write an email to me
+<b>문제가 계속되면.</b>
+- 스마트폰을 재부팅 하세요
+- 개발자에게 메일을 보내세요
 
-<b>Key features</b>
-- cooperation with the official Haylou apps or completely independent working mode
-- normal and internet incoming call signal with caller display
-- missed call signal with caller display
-- displays the app's notification texts on the watch
-- show the most common emoticons
-- uppercase conversion
-- customizable character and emoji replacement
-- show battery state
-- low battery level notification
+<b>주요 특징</b>
+- 공식 Haylue 앱과의 함께 또는 완전히 독립모드
+- 발신자 표시가 있는 통화 또는 앱의 수신 알람
+- 발신자 표시가 있는 통화 또는 앱의 미수신 알람
+- 스마트워치에 앱의 알림 문자 표시
+- 이모티콘 표시
+- 대문자 변환
+- 맞춤형 캐릭터 및 이모지 교체
+- 배터리 상태 표시
+- 배터리 낮음 알림
 
-<b>Steps</b>
-- daily/weekly/monthly charts
+<b>걸음수</b>
+- 일별/일별/일별 차트
 
-<b>Pulse</b>
-- daily/weekly/monthly charts
-- measured values, quarter-hourly values, half-hourly values, Hhurly values
+<b>심박수</b>
+- 일별/일별/일별 차트
+- 측정값, 1/4시간 값, 30분 값, Hhurly 값
 
-<b>Touch control</b>
-- incoming call reject button action: call rejecting, call mute, call answering
-- find my phone
-- music control
-- music volume up/down
-- phone mute toggle
-- flashlight toggle
+<b>터치 컨트롤</b>
+- 수신 거부 버튼 동작: 호출 거부, 음소거, 호출 응답
+- 내 스마트폰 찾기
+- 음악 제어
+- 음악 볼륨 업/다운
+- 스마트폰 음소거
+- 스마트폰 손전등 제어
 
-<b>Alarms</b>
+<b>알람설정</b>
 
-<b>Do not disturb mode</b>
-- turn Bluetooth on and off 
-- turn call or notification alert on and off
+<b>방해금지모드</b>
+- Bluetooth 켜기/끄기 
+- 통화 또는 알림 경고 켜기/끄기
 
-<b>Languages</b>
-English, Hungarian, Russian, Ukrainian, Portuguese, Spanish, Polish,  Czech, Turkish, Italian, French, Germany, Romanian, Greek, Korean, Japanese, Chinese
+<b>언어</b>
+영어, 헝가리어, 러시아어, 우크라이나어, 포르투갈어, 스페인어, 폴란드어, 체코어, 터키어, 이탈리아어, 프랑스어, 독일어, 루마니아어, 그리스어, 한국어, 일본어, 중국어
 
-<b>Translated by</b>
+<b>BlueWind 에 의해 번역됨<b>
