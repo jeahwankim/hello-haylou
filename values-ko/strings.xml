@@ -85,10 +85,10 @@
     <string name="mi_band_setting_language">언어</string>
     <string name="mi_band_setting_time_24h">24시간 형식</string>
     <string name="mi_band_setting_distance_unit">거리 단위</string>
-    <string name="mi_band_setting_lift_wrist">손목을 들어올리면 화면 밝히기</string>
+    <string name="mi_band_setting_lift_wrist">손목을 들어올려 화면 켜기</string>
     <string name="mi_band_setting_screen_on_duration">회면 켜짐 시간</string>
     <string name="mi_band_setting_idle_alert">오래 앉음 경고</string>
-    <string name="mi_band_setting_idle_alert_time">Inactivity time</string>
+    <string name="mi_band_setting_idle_alert_time">비활동 시간</string>
     <string name="mi_band_setting_idle_alert_dnd">방해금지 (12:00-14:00)</string>
 
     <string name="mi_band_setting_profile">이 데이터는 걸음 수, 거리 및 소모 된 칼로리를 정확하게 계산하는 데 필요합니다</string>
@@ -110,7 +110,7 @@
     <string name="mi_band_battery_notification_shade">폰에 알려주기</string>
     <string name="mi_band_battery_notification_shade_ongoing">반복 알람</string>
     <string name="mi_band_battery_notification_shade_message">배터리 부족: %1$,d%%</string>
-    <string name="mi_band_battery_notification_mi_band">팔찌에 알려주기</string>
+    <string name="mi_band_battery_notification_mi_band">워치에 알려주기</string>
     <string name="mi_band_battery_notification_mi_band_message">배터리: %1$,d%%</string>
 
     <!-- PreferenceScreen -->
@@ -140,18 +140,18 @@
     <string name="pref_language_title">언어</string>
 
     <string name="pref_menu">메뉴</string>
-    <string name="pref_cat_menu">Main menu bar</string>
-    <string name="pref_menu_item_2">Second menu item</string>
-    <string name="pref_menu_item_3">Third menu item</string>
+    <string name="pref_cat_menu">메인 메뉴바</string>
+    <string name="pref_menu_item_2">두번째 메뉴 아이템</string>
+    <string name="pref_menu_item_3">세번째 메뉴 아이템</string>
 
 
     <!-- Snackbar Messages -->
-    <string name="message_enable_bluetooth">블루투스를 활성화하고 밴드 기기를 폰에 가까이 가져와 주세요</string>
-    <string name="message_discover_mi_band">밴드가 설정되지 않았으므로, 그것을 찾아주세요</string>
-    <string name="message_discovering_mi_band">밴드 찾는 중 (1분이 소요될 수 있습니다) …</string>
+    <string name="message_enable_bluetooth">블루투스를 활성화하고 &device_name; 를 전화기에 가까이 가져가십시오.</string>
+    <string name="message_discover_mi_band">&device_name; 가 설정되지 않았습니다. 검색하십시오.</string>
+    <string name="message_discovering_mi_band">&device_name; 검색 중 (1분 정도 걸릴 수 있음) …</string>
     <string name="message_discovered_mi_band">%1$s 연결 성공</string>
-    <string name="message_discovered_no_mi_band">밴드 연결 실패</string>
-    <string name="message_discovered_not_found_mi_band">밴드를 찾지 못한 경우, Mi 피트/Play/발견 가능을 활성화하거나 폰 블루투스 설정에서 페어링하세요</string>
+    <string name="message_discovered_no_mi_band">&device_name; 연결 실패</string>
+    <string name="message_discovered_not_found_mi_band">&device_name; 를 찾지 못한 경우, &device_name; Sport/Play/Discoverable 을 활성화하거나 폰 블루투스 설정에서 페어링하세요</string>
     <string name="message_enable_notification_listener_access">알림 접근 활성화: 설정/알림/알림 접근</string>
     <string name="message_enable_notification_listener_access_4_4">알림 접근 활성화: 설정/보안/알림 접근</string>
     <string name="message_open_settings">설정</string>
@@ -189,7 +189,7 @@
     <string name="message_in_progress">진행 중…</string>
     <string name="message_no_data">자료 없음</string>
 
-    <string name="message_new_message">새 메시지가 수신되면, 스마트폰으로 메세지를 봅니다.</string>
+    <string name="message_new_message">새 메시지가 수신되었습니다. 메세지를 확인하세요.</string>
 
     <!-- Dialog -->
     <string name="dialog_welcome_title">환영합니다!</string>
@@ -394,7 +394,7 @@
     <string name="touch_headline_other_title">기타 제어</string>
 
     <string name="touch_device_location_title">내 폰 찾기</string>
-    <string name="touch_device_location_not_muted_only_title">소리는 음소거가 아니고 DnD기능인 경우</string>
+    <string name="touch_device_location_not_muted_only_title">음소거 모드 또는 DnD모드가 아닌 경우에 동작 됩니다.</string>
 
     <string name="touch_mute_toggle_title">폰 음소거 전환</string>
     <string name="touch_mute_toggle_ringer_mode_title">음소거 켜기</string>
@@ -414,7 +414,7 @@
 
     <string name="touch_weather_title">일기 예보</string>
     <string name="touch_weather_location">위치 업데이트</string>
-    <string name="touch_weather_precipitation">침적</string>
+    <string name="touch_weather_precipitation">강수량</string>
     <string name="touch_weather_cloud_cover">구름 cover</string>
     <string name="touch_weather_wind">바람</string>
 
@@ -526,7 +526,7 @@
     <string name="weather_precipitation_snow">눈</string>
     <string name="weather_cloud_cover_abbreviation">Cc</string>
     <string name="weather_cloud_cover">구름</string>
-    <string name="weather_humidity">습기</string>
+    <string name="weather_humidity">습도</string>
 
     <string name="weather_north">북</string>
     <string name="weather_east">동</string>
