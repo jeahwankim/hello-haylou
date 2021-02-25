@@ -122,7 +122,7 @@
     <string name="pref_synchronization_fetch_interval">동기화 주기</string>
 
     <string name="pref_battery_phone">폰 배터리</string>
-    <string name="pref_battery_phone_summary">낮고 높은 배터리 잔량 알림</string>
+    <string name="pref_battery_phone_summary">배터리 잔량 알림</string>
     <string name="pref_cat_battery_phone_low">배터리 부족</string>
     <string name="pref_battery_phone_low_title">배터리 부족 알림</string>
     <string name="pref_battery_phone_low_level_title">배터리 레벨 임계값</string>
