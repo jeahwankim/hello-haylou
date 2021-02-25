@@ -22,7 +22,7 @@
     </string-array>
 
     <string-array name="notification_group_grouped_dispay">
-        <item>장치가 연결될 때 모두 표시하고 그렇지 않으면 최신 알림만 표시</item>
+        <item>연결중에는 모든알람을 표시하고, 그외에는 최신 알람만 표시</item>
         <item>모든 알림 표시</item>
         <item>최신 알림 만 표시</item>
     </string-array>
